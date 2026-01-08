@@ -1,4 +1,4 @@
-This is a readme file modified once
+This is a readme file
 line 2
 line 3
 line 4
